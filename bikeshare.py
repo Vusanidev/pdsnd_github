@@ -261,7 +261,7 @@ def main():
             get_statistics(df)
 
         else:
-            print('Input did not match any filter.')
+            print('Input did not match any filter, program will start over')
 
 if __name__ == '__main__':
     main()
